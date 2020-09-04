@@ -1,0 +1,47 @@
+
+body{
+background-color: rgb(186, 202, 226);
+}
+h1{ text-align: center ;
+font-size: 58;
+text-shadow: rgb(137, 160, 219) 6px 4px 2px;
+color: rgb(245, 245, 239);
+}
+#capa{ background: url(fotos\ pgt1/pexels-anna-shvets-4672441.jpg);
+height: 100%;    
+background-size: 100% 100%;
+    }
+    h1{  padding-top: 90;  
+        word-spacing: 10;
+        text-transform: uppercase;
+        margin-bottom: 10;
+       
+    }
+    h2{ font-size: 20;    
+      text-align: center;
+      margin: 0  350 20px;
+      
+      
+    }
+    a{ text-decoration: none;
+        border: rgb(144, 208, 238) solid 2px;
+        margin: 640;
+        padding: 5px 15px;
+        border-radius: 15px;
+        color: rgb(144, 208, 238);
+        font-weight: bold;
+        text-transform: uppercase;
+
+}
+a:hover { background-color: rgba(143, 215, 248, 0.63);
+    color: mintcream;
+
+}
+#g{ float: left;
+    height: 99;
+    width: 100%;
+    border: rgb(238, 175, 178) solid;
+
+}
+    
+
